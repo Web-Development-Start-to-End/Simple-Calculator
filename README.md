@@ -102,8 +102,7 @@ No build tools or dependencies required.
 
 A minimal, mobile-friendly calculator interface with smooth button interactions and real-time display updates.
 
-![Calculator Screenshot](Calculator%SS.png)
-
+![Calculator Screenshot](Calculator%20SS.png)
 ---
 
 ## 🔮 Future Improvements
