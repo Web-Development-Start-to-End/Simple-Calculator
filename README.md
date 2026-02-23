@@ -13,7 +13,7 @@ This project focuses on core JavaScript logic, DOM manipulation, and UI interact
   * Subtraction (−)
   * Multiplication (×)
   * Division (÷)
-  * Percentage (%)
+  * Modulus (%)
 
 * 🧹 **AC (All Clear)** — Reset entire display
 
