@@ -1,1 +1,1 @@
-![alt text](Calculator SS.png)
+![Calculator Screenshot](Calculator%20SS.png)
